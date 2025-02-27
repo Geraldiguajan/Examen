@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\FORMS\obj\Debug\net8.0-windows\FORMS.Form1.resources
+C:\Users\Usuario\source\repos\FORMS\obj\Debug\net8.0-windows\FORMS.Properties.Resources.resources
+C:\Users\Usuario\source\repos\FORMS\obj\Debug\net8.0-windows\FORMS.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\FORMS\obj\Debug\net8.0-windows\FORMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FORMS\obj\Debug\net8.0-windows\FORMS.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FORMS\obj\Debug\net8.0-windows\FORMS.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FORMS\obj\Debug\net8.0-windows\FORMS.csproj.CoreCompileInputs.cache
